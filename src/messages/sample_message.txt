@@ -1,0 +1,6 @@
+This is a sample message!
+We will be showing how the default formatting works
+every message sends with a 3 second delay
+*5 This message will send 5 seconds slower, so 8 second delay
+Now we can send an imagage if we had one!
+~sample_image.jpg
